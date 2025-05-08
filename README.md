@@ -1,4 +1,4 @@
-# 🛢️📚 Prácticas y Comandos SQL en MySQL
+# 📚 Prácticas y Comandos SQL en MySQL
 
 Este repositorio contiene una colección de comandos, consultas y scripts SQL que estuve practicando mientras aprendía y reforzaba conceptos de **SQL utilizando MySQL**. Incluye ejemplos de creación de bases de datos, tablas, consultas básicas y avanzadas, relaciones y más.
 

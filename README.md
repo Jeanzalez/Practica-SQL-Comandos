@@ -4,11 +4,11 @@ Este repositorio contiene una colección de comandos, consultas y scripts SQL qu
 
 ## 🧠 Temas cubiertos
 
-✅ Creación y modificación de bases de datos y tablas.
-✅ Tipos de datos y restricciones.
-✅ Consultas `SELECT` simples y complejas.
-✅ Operadores `JOIN`, `GROUP BY`, `HAVING`.
-✅ Inserción, actualización y eliminación de registros.
-✅ Vistas, procedimientos almacenados y más.
+* ✅ Creación y modificación de bases de datos y tablas.
+* ✅ Tipos de datos y restricciones.
+* ✅ Consultas `SELECT` simples y complejas.
+* ✅ Operadores `JOIN`, `GROUP BY`, `HAVING`.
+* ✅ Inserción, actualización y eliminación de registros.
+* ✅ Vistas, procedimientos almacenados y más.
 
 

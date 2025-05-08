@@ -1,0 +1,3 @@
+-- La concurrencia en SQL se refiere a la capacidad de un sistema de base de datos 
+-- para permitir que múltiples usuarios o procesos accedan y modifiquen los datos al mismo tiempo sin causar 
+-- inconsistencias ni errores.
